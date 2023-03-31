@@ -10,7 +10,7 @@ namespace bai3
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Nhap so x: ");
+            Console.WriteLine("Nhap so nguyen x: ");
             int x = int.Parse(Console.ReadLine());
             if (x%3==0)
             {
